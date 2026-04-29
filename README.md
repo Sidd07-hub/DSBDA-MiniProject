@@ -3,7 +3,6 @@
 ## 👨‍💻 Group Members
 
 * **Tejas Rajendra Bhansali** (Roll No: 39)
-* **Chirag Ghansham Shah** (Roll No: 09)
 * **Siddhesh Nitin Nikumb** (Roll No: 38)
 * **Yash Satishchand Surana** (Roll No: 22)
 * **Om Deepak Shrawge** (Roll No: 52)
