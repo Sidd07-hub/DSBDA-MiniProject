@@ -1,6 +1,6 @@
-# 📊 Student Feedback Collection and Analysis using Power BI
+# Student Feedback Collection and Analysis using Power BI
 
-## 👨‍💻 Group Members
+##  Group Members
 
 * **Tejas Rajendra Bhansali** (Roll No: 39)
 * **Siddhesh Nitin Nikumb** (Roll No: 38)
@@ -9,13 +9,13 @@
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 This project focuses on collecting and analyzing student feedback data using Google Forms and Data Science techniques. The goal is to extract meaningful insights related to teaching quality, lab facilities, and overall student satisfaction.
 
 ---
 
-## 🧠 Abstract
+##  Abstract
 
 This project analyzes student feedback collected through Google Forms to uncover patterns, trends, and key performance indicators related to teaching quality, lab facilities, faculty support, and overall satisfaction.
 
@@ -25,19 +25,19 @@ A **Linear Regression model** is developed to predict student satisfaction based
 
 ---
 
-## ❗ Problem Statement
+##  Problem Statement
 
 Educational institutions collect large amounts of student feedback data, but often fail to utilize it effectively due to lack of proper analysis tools. This leads to missed opportunities in improving teaching methods, lab facilities, and student support systems.
 
 This project aims to analyze student feedback data using data science techniques and provide meaningful visual insights for better academic decision-making.
 
-### 🔹 Problem in One Line:
+###  Problem in One Line:
 
 > **"How can student feedback data be analyzed to predict satisfaction levels and identify areas for academic improvement?"**
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 * Collect student feedback using Google Forms
 * Perform data cleaning and preprocessing
@@ -47,7 +47,7 @@ This project aims to analyze student feedback data using data science techniques
 
 ---
 
-## 📂 Dataset Features
+##  Dataset Features
 
 * Department
 * Year
@@ -59,7 +59,7 @@ This project aims to analyze student feedback data using data science techniques
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
 * Power BI (Dashboard Visualization)
@@ -67,7 +67,7 @@ This project aims to analyze student feedback data using data science techniques
 
 ---
 
-## 📊 Visualizations
+##  Visualizations
 
 * Bar Charts (Department-wise analysis)
 * Line Charts (Trend analysis)
@@ -76,7 +76,7 @@ This project aims to analyze student feedback data using data science techniques
 
 ---
 
-## 🚀 Outcome
+##  Outcome
 
 * Clean and structured dataset
 * Identification of key factors affecting student satisfaction
@@ -85,13 +85,13 @@ This project aims to analyze student feedback data using data science techniques
 
 ---
 
-## 📌 Conclusion
+##  Conclusion
 
 This project demonstrates how student feedback data can be transformed into valuable insights using data science and visualization tools. The results help institutions improve teaching quality, lab infrastructure, and overall student experience.
 
 ---
 
-## 🔗 How to Run
+##  How to Run
 
 1. Download the dataset
 2. Open the Jupyter Notebook
@@ -100,7 +100,7 @@ This project demonstrates how student feedback data can be transformed into valu
 
 ---
 
-## 📸 Sample Output
+##  Sample Output
 
 
 <img width="1250" height="701" alt="image" src="https://github.com/user-attachments/assets/ab11780d-d65c-4169-af42-359d9c660e9a" />
