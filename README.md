@@ -1,4 +1,4 @@
-# 📊 Student Feedback Collection and Analysis using Google Forms
+# 📊 Student Feedback Collection and Analysis using Power BI
 
 ## 👨‍💻 Group Members
 
